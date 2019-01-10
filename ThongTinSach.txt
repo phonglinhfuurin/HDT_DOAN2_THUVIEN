@@ -1,0 +1,9 @@
+TiengViet,123,hihihihihihi hohoho,thach that,giao duc ,90909
+TiengViet,124,troi mua,duong tang,dong nai ,50000
+TiengViet,125,nang va gio,phan boi chau,binh thuan ,60000
+TiengViet,126,Tam Cam,dan gian,nhan dan ,70000
+TiengViet,127,thach sach,kim lan,giai phong ,80000
+NgoaiVan,1111,1001,coi xay gio,donkihote,chau au,900000
+NgoaiVan,2222,1002,bach tuyet,jonemit,chau my,100000
+NgoaiVan,3333,1004,nag tien ca,simon,chau uc,110000
+NgoaiVan,4444,1005,bay chu lun,saaraa,han quoc, 120000

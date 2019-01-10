@@ -1,0 +1,26 @@
+Ma So Phieu:135
+Ten:huynh thanh,8787
+So Sach: 1
+Ma Sach: 348, Ten sach: hihihihihihi hohoho, Tac gia: thach that
+Ngay)19/8/2019
+***
+Ma So Phieu:136
+Ten:kim min seok,12345
+So Sach: 1
+Ma Sach: 348, Ten sach: hihihihihihi hohoho, Tac gia: thach that
+Ngay)12/12/2019
+***
+Ma So Phieu:2222
+Ten:thi tam,30303
+So Sach: 2
+Ma Sach: 124, Ten sach: troi mua, Tac gia: duong tang
+Ma Sach: 125, Ten sach: nang va gio, Tac gia: phan boi chau
+Ngay)31/12/2019
+***
+Ma So Phieu:245
+Ten:kho lam roi,93939
+So Sach: 2
+Ma Sach: 1002, Ten sach: bach tuyet, Tac gia: jonemit
+Ma Sach: 1004, Ten sach: nag tien ca, Tac gia: simon
+Ngay)22/12/2019
+***

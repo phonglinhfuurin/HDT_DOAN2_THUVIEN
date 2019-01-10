@@ -1,0 +1,7 @@
+Ma So Phieu:2222
+Ten:thi tam,30303
+So Sach: 2
+Ma Sach: 124, Ten sach: troi mua, Tac gia: duong tang
+Ma Sach: 125, Ten sach: nang va gio, Tac gia: phan boi chau
+Ngay)15/1/2020
+***
